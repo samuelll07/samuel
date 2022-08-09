@@ -1,0 +1,17 @@
+
+body{
+	background: #CCCCCC;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: ;
+}
+
+#banner{
+width: 500px;
+height: 500px;
+}
+
+.container img { max-width: 500px; }
