@@ -1,9 +1,51 @@
-main {
-	width: 940px;
-	margin: 0 auto;
+body {
+	
 }
 
-form label {
-	display: block;
+#banner {
+	width:90%;
+}
+
+.principal{
+	background:#FFEBCD;
+	padding: 30px;
+
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+
+}
+.itens {
+    font-size: 25px;
+
+}
+.itens {
+
+	font-style: italic;
+	
+}
+
+.beneficios {
+	background: #FFE4C4;
+	padding: 20px; /* ESPAÇAMENTO ENTRE OS ELEMENTOS*/
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block; /* AJUSTAR O CONTEÚDO*/
+	vertical-align: top; /* ALINHAR EM CIMA*/
+	width: 20%; /* TAMANHO DO ELEMENTO DA LARGURA*/
+	margin-right: 15%; /* TAMANHO PARA A DIREITA*/
+}
+
+.imagembeneficios {
+	width: 50%;
 
 }
